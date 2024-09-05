@@ -19,4 +19,9 @@ int[] nums = new int[]{1, 2, 3};
 nums = []
 ```
 
-practice headers
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
+practice markdown components
